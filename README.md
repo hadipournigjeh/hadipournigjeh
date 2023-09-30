@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React project Real Estate Website**
 
-- 🌱 I’m currently practice **JavaScript,Node js and psql**
+- 🌱 I’m currently practice **TypeScript,JavaScript,Node js and psql**
 
 - 👨‍💻 All of my projects are available at [https://hadi-a-p-portfolio.netlify.app/](https://hadi-a-p-portfolio.netlify.app/)
 
